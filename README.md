@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zach!
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning JavaScript, Python, HTML, & CSS.
 - 📫 You can reach me at zacharytbishop@outlook.com
 
 <!---
